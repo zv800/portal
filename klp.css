@@ -1,14 +1,3 @@
-body {
-  
-
-}
-h1 {
-  color: blue;
-  background: #D0E4F5 url("https://img.freepik.com/free-psd/dark-blue-glow-dust-particle-abstract-background-light-ray-shine-beam-effect_35672-1428.jpg?size=626&ext=jpg") no-repeat scroll 0 0;
-
-}
-p {
-  color: red;
- 
-
+#demo {
+background: #D0E4F5 url("https://i.pinimg.com/originals/f0/71/16/f07116935daff9644f3892737a7a5cce.jpg") no-repeat fixed 50% 50%;
 }
